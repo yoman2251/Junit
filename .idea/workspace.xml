@@ -15,15 +15,15 @@
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="308" />
+    <option name="myElementSize" value="290" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/letterGrade/letterGrade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="551">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/letterGrade" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -56,12 +59,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -94,7 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545825565197" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545828807864" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.10.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -177,12 +181,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="letterGradeTest - 2018.12.26 at 14h 06m 20s.xml">
-      <configuration name="letterGradeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="letterGradeTest - 2018.12.26 at 14h 06m 31s.xml">
-      <configuration name="letterGradeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="letterGradeTest - 2018.12.26 at 19h 34m 39s.xml">
       <configuration name="letterGradeTest" configurationId="JUnit" />
     </history-entry>
@@ -207,6 +205,12 @@
     <history-entry file="letterGradeTest - 2018.12.26 at 19h 51m 50s.xml">
       <configuration name="letterGradeTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="letterGradeTest - 2018.12.26 at 19h 58m 46s.xml">
+      <configuration name="letterGradeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="letterGradeTest - 2018.12.26 at 19h 58m 56s.xml">
+      <configuration name="letterGradeTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -216,7 +220,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11565978" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11565978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -224,7 +228,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969603" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -250,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/letterGrade/letterGrade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="551">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
